@@ -1,0 +1,11 @@
+{
+  "name": "bender-cli",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "version": "0.0.0",
+  "main": "./lib/bender-cli.js",
+  "dependencies": {
+    "flatiron": "~0.3.9",
+    "flatiron-cli-config": "~0.1.4",
+    "bender-api": "~0.1.0"
+  }
+}
