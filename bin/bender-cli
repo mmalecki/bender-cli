@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 var app = require('../');
 process.title = 'bender-cli';
+app.start();
