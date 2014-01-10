@@ -6,7 +6,7 @@
   "dependencies": {
     "flatiron": "~0.3.9",
     "flatiron-cli-config": "~0.1.4",
-    "bender-api": "~0.1.0"
+    "bender-api": "~0.2.0"
   },
   "bin": {
     "bender-cli": "./bin/bender-cli"
